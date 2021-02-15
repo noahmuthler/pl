@@ -1,5 +1,6 @@
 import React from "react";
 import "./HomeNav.css";
+import Fade from "react-reveal/Fade";
 
 function Header() {
     return(
